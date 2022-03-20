@@ -1,0 +1,18 @@
+.good{
+    padding-left:40px;
+}
+.you{
+    background: #fceae8;
+}
+.hasan{
+    margin-top:100px;
+}
+.goodat{
+    background: linear-gradient(to bottom,#ff5898 0%,#ff136f 100%);
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    padding:9px,25px;
+    cursor: pointer;
+
+}
